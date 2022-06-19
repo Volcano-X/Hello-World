@@ -76,12 +76,38 @@ How to make a nested list?(To be unified, Intend space is suggested to have 4 sp
 Hide some content from render markdown. 
 <!-- This content will not appear in the rendered Markdown -->
 
-<sub>This is a subscript text</sub> <sup>This is a superscript text</sup>
+
+The AI Conference List: 
+- [x] prepare for ICML
+- [x] prepare for NIPS
+- [x] prepare for ICLR
+- [x] prepare for CVPR
+- [ ] prepare for ICCV
+- [ ] prepare for KDD
+- [x] prepare for AAAI
+- [x] prepare for IJCAI
+- [ ] prepare for MM
+- [ ] prepare for WWW
+- [ ] prepare for WSDM
+
+The AI Journal List:
+- [x] prepare for TPAMI
+- [x] prepare for JMLR
+- [x] prepare for IJCV
+- [ ] prepare for TIP
+- [ ] prepare for TNNLS
+- [x] prepare for TCYB
+- [x] prepare for TKDE
+- [ ] prepare for TMM
+- [ ] prepare for TCSVT
+- [ ] prepare for PR
 
 @Volcano-can, be careful, I will paste a image here! ![You can type some remarks of the image, e.g. This is a cat](https://myoctocat.com/assets/images/base-octocat.svg)
 
 [To a quick start of Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [To a specific doc of markdown in github](https://github.github.com/gfm/#paragraphs)
 
+
+<sub>This is a subscript text</sub> <sup>This is a superscript text</sup>
 
 Citation:
 
